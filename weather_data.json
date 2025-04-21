@@ -1,0 +1,302 @@
+[
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:45:06.828351"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:06.929930"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:07.047883"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:45:07.163024"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:45:07.262919"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:45:22.397609"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:22.510733"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:22.643971"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:45:22.760772"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:45:22.862938"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:45:38.008473"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:38.125277"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:38.233781"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:45:38.358928"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:45:38.458616"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:45:53.592305"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:53.706548"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:45:53.807474"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:45:53.923229"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:45:54.106194"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:46:09.237528"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:09.354957"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:09.454448"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:46:09.571555"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:46:09.687979"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:46:24.851532"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:25.002366"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:25.135728"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:46:25.269006"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:46:25.384380"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:46:40.499950"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:40.609566"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:40.723727"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:46:40.833488"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:46:40.950129"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:46:56.081532"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:56.197037"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:46:56.298226"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:46:56.415070"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:46:56.531813"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.08,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:47:11.645279"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:47:11.762031"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:47:11.879435"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.98,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:47:11.979742"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:47:12.083354"
+  },
+  {
+    "city": "New York",
+    "temp_c": 17.1,
+    "humidity": 30,
+    "timestamp": "2025-04-20T16:47:27.277527"
+  },
+  {
+    "city": "Mumbai",
+    "temp_c": 28.77,
+    "humidity": 69,
+    "timestamp": "2025-04-20T16:47:27.394609"
+  },
+  {
+    "city": "Sydney",
+    "temp_c": 20.46,
+    "humidity": 68,
+    "timestamp": "2025-04-20T16:47:27.510795"
+  },
+  {
+    "city": "Chicago",
+    "temp_c": 10.94,
+    "humidity": 76,
+    "timestamp": "2025-04-20T16:47:27.610908"
+  },
+  {
+    "city": "London",
+    "temp_c": 12.39,
+    "humidity": 71,
+    "timestamp": "2025-04-20T16:47:27.727587"
+  }
+]
